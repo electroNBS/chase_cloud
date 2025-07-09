@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+pytorch-lightning
+einops
+matplotlib
+plotly
+numpy
+opencv-python
+scikit-image
+rioxarray
+tqdm
+streamlit
